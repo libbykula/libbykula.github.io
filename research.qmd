@@ -13,7 +13,7 @@ Krafft, C., <b>Kula, E.</b>, & Sieverding, M. (2021). An investigation of Jordan
 # Works in Progress
 
 **Libby Kula, Ben Janke, Justin A. Johnson, Yanxu Long, Eric Lonsdorf, Chris Nootenboom, & Stephen Polasky. 
-Submitted for publication. “Urban ecosystem services in decline: The cost of urban expansion in U.S. 
+**Conditionally accepted at** ***Ecosystem Services.*** “Urban ecosystem services in decline: The cost of urban expansion in U.S. 
 metropolitan areas from 2001 to 2021.”**  
  Abstract: We quantify access to green space, and the monetary ecosystem service values for urban cooling, stormwater retention, and carbon storage for 380 metropolitan areas in the contiguous U.S. in 2001, 2011, and 2021, using the Urban Integrated Valuation of Ecosystem Services and Tradeoffs (Urban InVEST) software. We find significant values of ecosystem services in urban areas, $1.5 billion in urban cooling from reduced energy expenditures, $20.3 billion in reduced stormwater retention costs, and $24.6 billion in the annual rental value of carbon storage in 2021. However, we find decreases in the provision of ecosystem services over the 20-year period across most metropolitan areas, reflecting a loss of urban green space. The rate of loss has slowed over time with greater losses from 2001 to 2011 than from 2011 to 2021.
 
