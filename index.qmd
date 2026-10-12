@@ -20,7 +20,13 @@ about:
       icon: globe-americas
       url: "https://natcapteems.umn.edu/"
 ---
+Hi, I'm Libby (short for Elizabeth) Kula, an environmental economist who studies how cities, and the people in them, benefit from nature.
 
-My name is Elizabeth (Libby) Kula. I’m a doctoral candidate in the Department of Applied Economics at the University of Minnesota. My studies were concentrated in the environmental/natural resource economics and policy fields. I am currently completing my dissertation while on the 2025-26 job market. I have experience and interest in both research and teaching positions. 
+I recently earned my Ph.D. in Applied Economics at the University of Minnesota, specializing in environmental and natural resource economics and policy. I'm now a postdoctoral research associate with the Department of Applied Economics and the Minnesota Aquatic Invasive Species Research Center, and I'm on the 2026-27 job market. I'm excited about academic roles in research and teaching, and I'm also open to applying my quantitative and social science toolkit in industry.
 
-My research interests include ecosystem services, nature-based solutions, urban green space, and equity. In my dissertation, I leverage household survey data and geospatial environmental data to estimate the distribution of urban ecosystem services across space and socio-economic characteristics over time and in response to policy changes.
+My work asks a simple question: **who can access the benefits of urban nature, and how does that change over time and in response to policy?** To answer it, I combine household survey data with geospatial environmental data to map how ecosystem services (nature's benefits to people) are distributed across space and socio-economic groups. My interests include:
+
+- Ecosystem services and nature-based solutions
+- Spatial analysis and GIS
+- Urban planning and policy
+- Environmental justice
