@@ -19,6 +19,9 @@ about:
     - text: NatCap TEEMs Homepage
       icon: globe-americas
       url: "https://natcapteems.umn.edu/"
+    - text: Google Scholar
+      icon: google
+      url: "https://scholar.google.com/citations?user=b3OaErcAAAAJ&hl=en"
 ---
 Hi, I'm Libby (short for Elizabeth) Kula, an environmental economist who studies how cities, and the people in them, benefit from nature.
 
